@@ -1,0 +1,21 @@
+{
+  "name": "Discipline Clock",
+  "short_name": "Clock",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#e3f2fd",
+  "theme_color": "#1565c0",
+  "description": "An elegant analog countdown clock for focus and discipline.",
+  "icons": [
+    {
+      "src": "alarmclock-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "alarmclock-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
